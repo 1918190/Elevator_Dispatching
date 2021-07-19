@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/new/image">
+        <file>image/elevator.png</file>
+        <file>image/left door.png</file>
+        <file>image/right door.png</file>
+        <file>image/down button.png</file>
+        <file>image/up button.png</file>
+        <file>image/alarm bell.png</file>
+        <file>image/phone.png</file>
+        <file>image/nothing button.png</file>
+        <file>image/little door.png</file>
+        <file>image/person.png</file>
+        <file>music/ding.mp3</file>
+        <file>image/background.png</file>
+        <file>image/button list.png</file>
+    </qresource>
+    <qresource prefix="/"/>
+</RCC>
